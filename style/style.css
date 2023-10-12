@@ -25,7 +25,7 @@ h1 {
     text-align: center;
     padding: 27px 5px 50px 5px;
     border-radius: 29px;
-    max-width: 350px;
+    width: 350px;
     height: 480px;
     background-color: #F3F4FF;
 }
@@ -39,22 +39,22 @@ h1 {
     color: #1D2532;
     line-height: 40px;
     margin-top: 12px;
-    font-size: 34px;
+    font-size: 32px;
 }
 
 .alert__text {
     margin-top: 26px;
     color: #151D51;
     line-height: 22px;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .alert__button {
     margin-top: 28px;
     background-color: #3B60E4;
     border-radius: 40px;
-    width: 327px;
-    height: 72px;
+    width: 300px;
+    height: 67px;
     border: none;
     color: #FFF;
     font-size: 29px;
