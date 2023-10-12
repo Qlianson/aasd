@@ -62,8 +62,3 @@ h1 {
     font-weight: 600;
     cursor: pointer;
 }
-
-.alert__link {
-    text-decoration: none;
-    color: white;
-}
